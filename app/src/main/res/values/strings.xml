@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Aarista-backend</string>
+    <string name="title_activity_authenticator">AuthenticatorActivity</string>
+</resources>
